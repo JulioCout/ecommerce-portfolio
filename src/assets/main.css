@@ -1,0 +1,18 @@
+:root {
+  --color-bg: "#F5F5F5";
+  --color-black: "#242424";
+  --color-gray: "#909090";
+  --color-secundary: "#E0E0E0";
+  --color-disable: "#B3B3B3";
+  --color-green: "#27AE60";
+  --color-yellow: "#F2C94C";
+  --color-red: "#EB5757";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+  font-family: "poppins", sans-serif;
+}

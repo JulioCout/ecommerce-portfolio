@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Cadeira Moderna",
+        "category": "chair",
+        "popular": true,
+        "price": 50,
+        "rating": 4.5,
+        "reviews": 25,
+        "description": "Charme e elegância vão completar sua sala de jantar com este atraente Conjunto com 2 Cadeiras.",
+        "image": "@/src/assets/products/cadeira1"
+    },
+    {
+        "id": 2,
+        "name": "Cadeira Delta",
+        "category": "chair",
+        "popular": false,
+        "price": 90,
+        "rating": 5,
+        "reviews": 20,
+        "description": "Nosso KIT cadeiras Delta traz modernidade e conforto ,com sua estrutura 100% MDF , estofados anatômicos , bordados em alto relevo , trará o conforto que sua família merece ao se sentar para compartilhar de bons momentos.",
+        "image": "@/src/assets/products/cadeira2"
+    },
+    {
+        "id": 3,
+        "name": "Cadeira Genova",
+        "category": "chair",
+        "popular": false,
+        "price": 80,
+        "rating": 4,
+        "reviews": 30,
+        "description": "Quer um espaço mais elegante e atraente? Então você vai se apaixonar por este lindo Conjunto de Cadeiras. Composto por móveis confeccionados com materiais resistentes e de qualidade, ele é a melhor opção para completar seu lar, deixando-o muito mais sofisticado e convidativo.",
+        "image": "@/src/assets/products/cadeira3"
+    },
+    {
+        "id": 4,
+        "name": "Cadeira Beta",
+        "category": "chair",
+        "popular": false,
+        "price": 45,
+        "rating": 4.5,
+        "reviews": 35,
+        "description": "Com a tapeçaria em tecido linho/ Courissimo desenvolvida de forma minuciosa para proporcionar ergonomia e beleza. A cadeira Beta possui design versátil, moderna e cheio de personalidade.",
+        "image": "@/src/assets/products/cadeira4"
+    },
+    {
+        "id": 5,
+        "name": "Cadeira Tiê",
+        "category": "chair",
+        "popular": false,
+        "price": 30,
+        "rating": 4.7,
+        "reviews": 23,
+        "description": "A Cadeira Madeira Maciça Tiê é muito confortável. O encosto levemente inclinado garante o conforto para refeições, leituras e estudos com seu notebook, além de ser super fácil de montar.",
+        "image": "@/src/assets/products/cadeira5"
+    },
+    {
+        "id": 6,
+        "name": "Cama com Cabeceira Samambaia",
+        "category": "bed",
+        "popular": true,
+        "price": 1250,
+        "rating": 4.7,
+        "reviews": 23,
+        "description": "A Cama Samambaia é um modelo baixo possui um design moderno. Ela permite muitas possibilidades, você pode colocar diferentes tipos de colchões para compor sua cama (casal ou queen), devido a estrutura privilegiada desse móvel.",
+        "image": "@/src/assets/products/cama1"
+    },
+    {
+        "id": 7,
+        "name": "Cama Bau Casal",
+        "category": "bed",
+        "popular": false,
+        "price": 699,
+        "rating": 4,
+        "reviews": 32,
+        "description": "Cama bau casal com sapateira embutida, possui um design moderno, pode ser facilmente adequada à sua decoração e torna o seu ambiente confortável e moderno.",
+        "image": "@/src/assets/products/cama2"
+    },
+    {
+        "id": 8,
+        "name": "Cama Casal Estofada Uvaia",
+        "category": "bed",
+        "popular": false,
+        "price": 999,
+        "rating": 5,
+        "reviews": 35,
+        "description": "A Cama Casal Estofada Uvaia possui peseira e laterais estofadas em veludo, seu estrado é produzido em MDF. Pode haver diferença de tonalidade devido a posição da luz.",
+        "image": "@/src/assets/products/cama3"
+    },
+    {
+        "id": 9,
+        "name": "Cama Solteiro Multifuncional",
+        "category": "bed",
+        "popular": false,
+        "price": 799,
+        "rating": 4,
+        "reviews": 28,
+        "description": "A Cama Solteiro Multifuncional conta com duas gavetas com corrediças metálicas, e nichos para você guardar seus objetos decoração e de fácil acesso. A cama tem um design neutro e pode ser facilmente adequada à sua decoração, e com isso, torna o seu ambiente confortável e moderno.",
+        "image": "@/src/assets/products/cama4"
+    },
+    {
+        "id": 10,
+        "name": "Cama Articulada de Casal",
+        "category": "bed",
+        "popular": false,
+        "price": 899,
+        "rating": 4.8,
+        "reviews": 36,
+        "description": "Pensado no bem-estar e na praticidade está cama foi desenvolvida para agregar conforto e beleza no ambiente mais importante da casa, o quarto.",
+        "image": "@/src/assets/products/cama5"
+    },
+    {
+        "id": 11,
+        "name": "Mesa de Jantar 4 Lugares",
+        "category": "table",
+        "popular": true,
+        "price": 999,
+        "rating": 4.4,
+        "reviews": 31,
+        "description": "Esta mesa é a escolha perfeita para ambientes elegantes e sofisticados. Sendo uma peça extremamente funcional, ela proporciona todo conforto necessário sem abdicar do estilo e beleza.",
+        "image": "@/src/assets/products/mesa1"
+    },
+    {
+        "id": 12,
+        "name": "Mesa para Escritório Estilo Industrial",
+        "category": "table",
+        "popular": false,
+        "price": 250,
+        "rating": 4.9,
+        "reviews": 43,
+        "description": "Harmonizando o metal e os tons de madeira, foram projetados móveis versáteis e com estilo, que podem compor ambientes flexíveis cheios de personalidade, perfeitos para você decorar sua casa ou seu trabalho, tendo um resultado que caminha do estilo rústico ao moderno.",
+        "image": "@/src/assets/products/mesa2"
+    },
+    {
+        "id": 13,
+        "name": "Mesa de Jantar Porto",
+        "category": "table",
+        "popular": false,
+        "price": 599,
+        "rating": 4.5,
+        "reviews": 26,
+        "description": "A linha Porto se destaca por seu estilo industrial e moderno. Esta mesa de jantar pode servir até 4 pessoas. É Ideal para os amantes dessa tendência que mistura o rústico ao urbano, dando ainda mais personalidade ao seu espaço.",
+        "image": "@/src/assets/products/mesa3"
+    },
+    {
+        "id": 14,
+        "name": "Mesa de Jantar Mandacaru",
+        "category": "table",
+        "popular": false,
+        "price": 699,
+        "rating": 4,
+        "reviews": 17,
+        "description": "A Mesa de Madeira Maciça Mandacaru é um produto especial, cheio de estilo, feito para você e é bem fácil de montar. com um detalhe estiloso, deixando sua sala de jantar mais moderna e pronta para receber sua família.",
+        "image": "@/src/assets/products/mesa4"
+    },
+    {
+        "id": 15,
+        "name": "Mesa Redonda Grécia",
+        "category": "table",
+        "popular": false,
+        "price": 759,
+        "rating": 5,
+        "reviews": 25,
+        "description": "Que tal deixar sua sala de jantar mais sofisticada e confortável? com Mesa Grécia para 4 cadeiras 100% em MDF, com vidro serigrafado o conforto é garantido e seu ambiente fica ainda mais bonito.",
+        "image": "@/src/assets/products/mesa5"
+    },
+    {
+        "id": 16,
+        "name": "Poltrona Reclinável Imperial",
+        "category": "armchair",
+        "popular": true,
+        "price": 1799,
+        "rating": 5,
+        "reviews": 35,
+        "description": "Esta Poltrona pode ficar com a posição sentado e com o apoio de pernas levantadas, até porque o reclínio do encosto funciona independente da parte aonde apoia as pernas, é um poltrona que serve em qualquer ambiente, super confortável.",
+        "image": "@/src/assets/products/poltrona1"
+    },
+    {
+        "id": 17,
+        "name": "Poltrona Anatômica Eloá",
+        "category": "armchair",
+        "popular": false,
+        "price": 1499,
+        "rating": 4.5,
+        "reviews": 31,
+        "description": "A Poltrona Anatômica Eloá é robusta, elegante e muito confortável, excelente opção para transformar a decoração de seu lar ou escritório, pode ser utilizada em vários cômodos e ser aproveitada para leitura e descanso.",
+        "image": "@/src/assets/products/poltrona2"
+    },
+    {
+        "id": 18,
+        "name": "Poltrona para Sala de Estar Maranata",
+        "category": "armchair",
+        "popular": false,
+        "price": 599,
+        "rating": 4.7,
+        "reviews": 45,
+        "description": "Com uma estrutura e beleza única, a Poltrona Decorativa Maranata se adapta em qualquer ambiente, tornando-o ainda mais elegante e harmonioso.",
+        "image": "@/src/assets/products/poltrona3"
+    },
+    {
+        "id": 19,
+        "name": "Poltrona de Linho Ana",
+        "category": "armchair",
+        "popular": false,
+        "price": 499,
+        "rating": 4.3,
+        "reviews": 36,
+        "description": "A Poltrona Ana promete trazer ao seu ambiente modernidade e estilo, com estrutura em aço carbono ela representa o estilo industrial. Seu assento possui espuma densidade 26 com apoia braço.",
+        "image": "@/src/assets/products/poltrona4"
+    },
+    {
+        "id": 20,
+        "name": "Poltrona Petra",
+        "category": "armchair",
+        "popular": false,
+        "price": 799,
+        "rating": 4,
+        "reviews": 28,
+        "description": "Poltrona Petra é uma peça diferenciada para o seu ambiente, utiliza as melhores matéria- primas, sendo revestida com tecido de alta qualidade, assento com persintas elásticas, espuma de densidade 26 e pés em madeira de jequitibá.",
+        "image": "@/src/assets/products/poltrona5"
+    }
+]
